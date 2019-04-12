@@ -1,0 +1,8 @@
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\bin\Debug\IntPayCalc.dll
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\bin\Debug\IntPayCalc.pdb
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.csprojAssemblyReference.cache
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.UserControl1.resources
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.csproj.GenerateResource.cache
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.csproj.CoreCompileInputs.cache
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.dll
+C:\Users\PMike\source\repos\IntPayCalc\IntPayCalc\obj\Debug\IntPayCalc.pdb
